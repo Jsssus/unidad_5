@@ -1,0 +1,4 @@
+# Mediciones REALES del alcance del chorro. valvula: 0 = la más baja.
+# alcance_cm = distancia horizontal desde la pared de la botella hasta donde cae el chorro.
+# Guarda este archivo como datos/alcance.csv
+nivel_cm,valvula,alcance_cm
