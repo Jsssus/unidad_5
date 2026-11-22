@@ -1,0 +1,19 @@
+RESUMEN DE VALIDACIÓN
+=====================================================
+Tanque: D = 10.0 cm | orificio d = 5.0 mm | válvula a z = 3.0 cm
+Carga inicial h0 = 23.90 cm   (15 mediciones)
+
+VACIADO h(t)
+  Cd teórico  = 0.610 -> RMSE = 0.18 cm | MAE = 0.15 cm | error máx = 0.36 cm
+  Cd ajustado = 0.598 -> RMSE = 0.20 cm | MAE = 0.15 cm | error máx = 0.41 cm
+  R² de la linealización √h vs t = 0.9993
+  Tiempo de vaciado: medido = 140.0 s | teórico = 144.7 s | ajustado = 147.0 s
+  Error del tiempo teórico = +3.4 %
+
+JUEGO vs REALIDAD
+  Archivo: partida_laboratorio_20261121_223654.csv
+  RMSE juego vs real = 6.81 cm, error máx = 11.86 cm
+
+ALCANCE DEL CHORRO
+  Cv teórico = 0.97  -> RMSE = 0.29 cm, error máx = 0.49 cm
+  Cv ajustado = 0.970 -> RMSE = 0.29 cm, error máx = 0.48 cm

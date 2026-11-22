@@ -1,6 +1,0 @@
-# Mediciones REALES del vaciado. Nivel leído en la regla (0 = fondo de la botella).
-# Guarda este archivo como datos/vaciado.csv
-t_s,nivel_cm
-0,
-10,
-20,
