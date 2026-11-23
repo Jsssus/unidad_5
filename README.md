@@ -1,3 +1,6 @@
+<p>
+    <img src="https://img.shields.io/badge/Python-3.13-FFD43B?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=3776AB" alt="Python 3.13" />
+</p>
 # 🔥 Bombero Torricelli
 
 Juego en Python/Pygame cuya mecánica principal funciona con un **modelo matemático validado con un experimento real**: el vaciado de un tanque por un orificio (**Ley de Torricelli**) y el alcance del chorro (**tiro parabólico**).
